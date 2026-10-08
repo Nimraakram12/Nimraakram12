@@ -89,28 +89,114 @@ My automation work includes:
 
 ---
 
-# 💻 Full-Stack Development
+# 💻 Tech Stack & Skills
 
-### Frontend
+## 🤖 AI & Agentic AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge\&logo=googlegemini\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-6A5ACD?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-Agentic_AI-FF6F00?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-000000?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-Applications-412991?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-7B68EE?style=for-the-badge)
+![Context Engineering](https://img.shields.io/badge/Context-Engineering-5C2D91?style=for-the-badge)
+
+---
+
+## ⚙️ AI Automation & Orchestration
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+![Automation](https://img.shields.io/badge/AI-Automation-FF4B4B?style=for-the-badge)
+![Workflow Automation](https://img.shields.io/badge/Workflow-Automation-FF6F00?style=for-the-badge)
+![APIs](https://img.shields.io/badge/API-Integration-009688?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-Integration-7952B3?style=for-the-badge)
+![MCP Servers](https://img.shields.io/badge/MCP-Servers-000000?style=for-the-badge)
+
+---
+
+## 🐍 Backend & Python
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge\&logo=pydantic\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-009688?style=for-the-badge)
+![Async Python](https://img.shields.io/badge/Async-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+---
+
+## 🌐 Frontend Development
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
-### Backend & AI
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+## 🗄️ Databases & Data
 
-### Automation & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge\&logo=sanity\&logoColor=white)
+![Vector Database](https://img.shields.io/badge/Vector-Database-6A5ACD?style=for-the-badge)
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+---
+
+## 🐳 DevOps & Developer Tools
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge\&logo=linux\&logoColor=white)
+
+---
+
+## 🧰 Developer & AI Tools
+
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-8E75B2?style=for-the-badge\&logo=googlegemini\&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
+![Qoder](https://img.shields.io/badge/Qoder-AI_IDE-000000?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Antigravity-AI_Development-6366F1?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+---
+
+## 🎙️ Voice AI
+
+![Vapi](https://img.shields.io/badge/Vapi-Voice_AI-000000?style=for-the-badge)
+![Retell AI](https://img.shields.io/badge/Retell_AI-Voice_Agents-5B21B6?style=for-the-badge)
+
+---
+
+## 🔌 APIs & Integrations
+
+![REST APIs](https://img.shields.io/badge/REST-APIs-009688?style=for-the-badge)
+![Google APIs](https://img.shields.io/badge/Google-APIs-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-API-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-7952B3?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge\&logo=json\&logoColor=white)
+
+---
+
+## 📚 Concepts & Engineering
+
+![Agent Orchestration](https://img.shields.io/badge/Agent-Orchestration-FF6F00?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector-Search-6A5ACD?style=for-the-badge)
+![Human in the Loop](https://img.shields.io/badge/Human--in--the--Loop-2E8B57?style=for-the-badge)
+![Guardrails](https://img.shields.io/badge/AI-Guardrails-B22222?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-7B68EE?style=for-the-badge)
+![Context Engineering](https://img.shields.io/badge/Context-Engineering-5C2D91?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-FF6F00?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-1572B6?style=for-the-badge)
 
 ---
 
